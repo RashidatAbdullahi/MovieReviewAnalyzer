@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 # MODEL-PATH
-MODEL_PATH = "sentiment_model"
+MODEL_PATH = "RashidatAbdullahi/sentiment_model"
 
 # MODEL LOADING
 
